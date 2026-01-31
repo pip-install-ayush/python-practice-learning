@@ -54,10 +54,10 @@ add(6, 7)
 
 
 # ---------random function---------- #
-# @greet
-# def hello():
-#     print("hello someone born with glorious perpose")
-# hello()
+@greet
+def hello():
+    print("hello someone born with glorious perpose")
+hello()
 
 
 
